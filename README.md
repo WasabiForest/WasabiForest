@@ -1,4 +1,6 @@
-## Hi there 👋
+![Flowers in a Field](https://i.pinimg.com/originals/57/51/01/575101980dcf5dca644ce8d73ed3e13a.gif "Flowers in a Field")
+
+![flowers in a field](https://eastendgetaway.com/wp-content/uploads/2026/08/AdobeStock_287277311-1024x1024.jpeg)
 
 <!--
 **WasabiForest/WasabiForest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
